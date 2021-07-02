@@ -41,7 +41,7 @@ print('%s 요일인 %s 의 아침 최저 기온은 %d 도, 낮 최고 기온은 
       % (day, date, mintemp, maxtemp))
 print('비올 확률은 %d이고 미세먼지는 %s수준일것으로 예상됩니다'
       % (rainprop, airrate))
-print('일출 시간은 %d 고, 일몰시간은 %d 입니다'
+print('일출 시간은 %s 고, 일몰시간은 %s 입니다'
       % (sunrise, sunset))
 print('바다의 물결은 남해 앞바다 %.1fm, 동해앞바다 %.1fm 서해앞바다 %.1fm 높이로 일겠습니다.'
       % (southwave, eastwave, westhwave))
